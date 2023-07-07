@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-i've been learning Vuejs for 3 year
-
 * 🌍  I'm based in Chiangmai,Thailand
 
 <a href="https://www.github.com/kitisak053" target="_blank" rel="noreferrer"><img
